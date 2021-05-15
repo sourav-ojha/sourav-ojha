@@ -8,35 +8,52 @@
 - 👨‍💻 I'm currently learning React and Firebase 
 
 ### Languages & Tools
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<p align="center">
+<code><img height="40" src="images/html.png"></code> &nbsp; &nbsp; 
+<code><img height="40" src="images/css.png"></code> &nbsp; &nbsp;
+<code><img height="40" src="images/js.png"></code> &nbsp; &nbsp;
+<code><img height="40" src="images/react.png"></code> &nbsp; &nbsp;
+<code><img height="40" src="images/firebase.png"></code> 
+</p>
 
 
 
 ### Connect with me:
+<!-- [<img  align="left" alt="sourav-ojha | Twitter" width="22px" src="images/twitter.png" />][twitter]
+[<img align="left" alt="sourav-ojha | LinkedIn" width="22px" src="images/linkedin.png" />][linkedin]
+[<img align="left" alt="sourav-ojha | Instagram" width="22px" src="images/instagram.png" />][instagram]
+[<img align="left" alt="sourav-ojha | Facebook" width="22px" src="images/facebook.png" />][facebook]
+--!>
 
-[<img  align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-
+<p align="center">
+<a href="https://twitter.com/subhamojha9" > <img  align="" alt="sourav-ojha | Twitter" width="32px" src="images/twitter.png" /> </a>
+<a href="https://www.instagram.com/ojha_sourav2001/" > <img  align="" alt="sourav-ojha | Instagram" width="32px" src="images/instagram.png" /> </a>
+<a href=" https://www.linkedin.com/in/sourav-coder/" > <img  align="" alt="sourav-ojha | LinkedIn" width="32px" src="images/linkedin.png" /> </a>
+<a href="https://www.facebook.com/Ojha.sourAv.26/" > <img  align="" alt="sourav-ojha | Facebook" width="32px" src="images/facebook.png" /> </a>
+</p>
 <br />
 
+<!--
 [twitter]: https://twitter.com/subhamojha9
 [instagram]: https://www.instagram.com/ojha_sourav2001/
 [linkedin]: https://www.linkedin.com/in/sourav-coder/
 [facebook]: https://www.facebook.com/Ojha.sourAv.26/
+--!>
 
 <br />
-
-[![website](https://img.shields.io/badge/PortfolioWebsite-sourav_ojha-2648ff?style=flat-square&logo=google-chrome)](https://sites.google.com/view/souravojha/home)
-<br />
-<br />
-
-
-<a href="https://github.com/sourav-ojha">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourav-ojha&theme=tokyonight&layout=compact&" />
+<p align="center">
+<a align="center" href="https://sites.google.com/view/souravojha/home" >
+<img src="https://img.shields.io/badge/PortfolioWebsite-sourav_ojha-2648ff?style=flat-square&logo=google-chrome" /> 
 </a>
+  </p>
+<br />
+<br />
+
+<p align='center'>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sourav-ojha&theme=midnight-purple"/>
+  <br />
+  <br />
+<a href="https://github.com/sourav-ojha">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourav-ojha&show_icons=true&theme=midnight-purple&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2&layout=compact"/>
+</a>
+</p>
