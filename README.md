@@ -15,7 +15,9 @@
 <code><img height="40" src="images/react.png"></code> &nbsp; &nbsp;
 <code><img height="40" src="images/firebase.png"></code> 
 </p>
+<p align='center'>
 
+</p>
 
 
 ### Connect with me:
@@ -40,6 +42,8 @@
 [facebook]: https://www.facebook.com/Ojha.sourAv.26/
 --!>
 
+
+
 <br />
 <p align="center">
 <a align="center" href="https://sites.google.com/view/souravojha/home" >
@@ -50,10 +54,26 @@
 <br />
 
 <p align='center'>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sourav-ojha&theme=midnight-purple"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sourav-ojha&theme=flag-india"/>
+  </p>
+
+ <br />
+  <br />
+ <p align='center'>
+ <a  href='#' >
+     <img align='center' src='https://github-readme-stats.vercel.app/api/top-langs/?username=sourav-ojha&layout=compact&hide=handlebars&theme=flag-india' />
+  </a>
+&nbsp; &nbsp; &nbsp; &nbsp; 
+  <a  href='#' >
+     <img align='center' src='https://github-readme-stats.vercel.app/api?username=sourav-ojha&show_icons=true&theme=flag-india&hide=prs&border_radius=10px&' />
+  </a>
+  </p>
   <br />
   <br />
-<a href="https://github.com/sourav-ojha">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourav-ojha&show_icons=true&theme=midnight-purple&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2&layout=compact"/>
-</a>
+  <p align='center'>
+  <a  href=''>
+    <img src= 'https://github-readme-stats.vercel.app/api/wakatime?username=sourav_ojha&theme=graywhite ' />
+  </a>
 </p>
+
+
