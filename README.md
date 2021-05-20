@@ -76,6 +76,8 @@
   
 <!--START_SECTION:waka-->
 ```text
+Week: 12 May, 2021 - 19 May, 2021
+
 JavaScript   18 mins         █████████████████████▒░░░   85.63 % 
 JSX          2 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
 ```
