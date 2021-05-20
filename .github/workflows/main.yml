@@ -2,6 +2,12 @@ name: Waka Readme
 
 on:
   workflow_dispatch:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
   schedule:
     # Runs at 12am UTC
     - cron: "0 0 * * *"
@@ -14,4 +20,6 @@ jobs:
       - uses: divykj/wakatime-charts@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          IMAGES_FOLDER: "generated"
+          GIT_USER_NAME: "Sourav ojha"
          
