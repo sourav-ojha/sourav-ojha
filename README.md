@@ -73,6 +73,10 @@
   <p align='center'>
   
 <!--START_SECTION:waka-->
+```text
+JavaScript   18 mins         █████████████████████▒░░░   85.63 % 
+JSX          2 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
+```
 <!--END_SECTION:waka-->
 
 </p>
