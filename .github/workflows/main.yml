@@ -1,16 +1,18 @@
-name: Wakatime Charts
+name: Waka Readme
 
 on:
   workflow_dispatch:
   schedule:
+    # Runs at 12am UTC
     - cron: "0 0 * * *"
 
 jobs:
-  update-charts:
-    name: Update wakatime stats charts
+  update-readme:
+    name: Update this repo's README
     runs-on: ubuntu-latest
     steps:
-      - uses: divykj/wakatime-charts@master
+      - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-         
+          SHOW_TITLE: true
+          
