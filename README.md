@@ -71,9 +71,10 @@
   <br />
   <br />
   <p align='center'>
-  <a  href=''>
-    <img src= 'https://github-readme-stats.vercel.app/api/wakatime?username=sourav_ojha&theme=graywhite ' />
-  </a>
+  
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 </p>
 
 
