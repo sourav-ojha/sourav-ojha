@@ -63,14 +63,16 @@
  <a  href='#' >
      <img align='center' src='https://github-readme-stats.vercel.app/api/top-langs/?username=sourav-ojha&layout=compact&hide=handlebars&theme=flag-india' />
   </a>
-&nbsp; &nbsp; &nbsp; &nbsp; 
+</p>
+  <br />
+  <br />
+<p align='center'>
   <a  href='#' >
      <img align='center' src='https://github-readme-stats.vercel.app/api?username=sourav-ojha&show_icons=true&theme=flag-india&hide=prs&border_radius=10px&' />
   </a>
   </p>
   <br />
   <br />
-  <p align='center'>
   
 <!--START_SECTION:waka-->
 ```text
@@ -79,6 +81,6 @@ JSX          2 mins          ██▓░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-</p>
+
 
 
