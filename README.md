@@ -76,13 +76,13 @@
   
 <!--START_SECTION:waka-->
 ```text
-Week: 08 August, 2021 - 14 August, 2021
+Week: 09 August, 2021 - 15 August, 2021
 
-JSX          15 hrs 32 mins  █████████████▓░░░░░░░░░░░   54.14 % 
-JavaScript   10 hrs 23 mins  █████████░░░░░░░░░░░░░░░░   36.17 % 
-CSS          2 hrs 8 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 % 
-Git Config   16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
-JSON         14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
+JSX          12 hrs 46 mins  █████████████▓░░░░░░░░░░░   54.96 % 
+JavaScript   7 hrs 27 mins   ████████░░░░░░░░░░░░░░░░░   32.08 % 
+CSS          2 hrs 8 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
+JSON         28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
+Git Config   16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
 ```
 <!--END_SECTION:waka-->
 
