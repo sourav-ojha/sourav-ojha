@@ -76,7 +76,7 @@
   
 <!--START_SECTION:waka-->
 ```text
-Week: 23 August, 2021 - 29 August, 2021
+Week: 24 August, 2021 - 30 August, 2021
 
 JSX          10 hrs 16 mins  ███████████▓░░░░░░░░░░░░░   47.00 % 
 JavaScript   7 hrs 11 mins   ████████▒░░░░░░░░░░░░░░░░   32.92 % 
