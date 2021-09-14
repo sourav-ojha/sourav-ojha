@@ -76,13 +76,13 @@
   
 <!--START_SECTION:waka-->
 ```text
-Week: 06 September, 2021 - 12 September, 2021
+Week: 07 September, 2021 - 13 September, 2021
 
-CSS          7 hrs 7 mins    ██████████▓░░░░░░░░░░░░░░   42.95 % 
-JavaScript   3 hrs 53 mins   ██████░░░░░░░░░░░░░░░░░░░   23.51 % 
-HTML         2 hrs 58 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.94 % 
-JSX          53 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
-JSON         47 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
+CSS          7 hrs 7 mins    ██████████░░░░░░░░░░░░░░░   40.09 % 
+JavaScript   4 hrs 15 mins   ██████░░░░░░░░░░░░░░░░░░░   23.89 % 
+HTML         3 hrs 14 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.22 % 
+JSON         1 hr 31 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
+JSX          44 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
 ```
 <!--END_SECTION:waka-->
 
