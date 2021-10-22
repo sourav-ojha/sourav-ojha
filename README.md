@@ -1,7 +1,10 @@
 
 
-🤍!! Hi There !!🤍
+[![wakatime](https://wakatime.com/badge/user/062ae067-92b3-487a-8b59-49d23a55c735.svg)](https://wakatime.com/@062ae067-92b3-487a-8b59-49d23a55c735)
 <p> <img src='https://komarev.com/ghpvc/?username=sourav-ojha&label=Views&color=blue&style=plastic%22' alt='sourav-Ojha' > </p>
+
+🤍!! Hi There !!🤍
+
 
 - ✔  I'm Sourav Ojha
 - 👀 I'm currently Pursuing Bachelors of Computer Application (BCA)
@@ -30,7 +33,7 @@
 <p align="center">
 <a href="https://twitter.com/subhamojha9" > <img  align="" alt="sourav-ojha | Twitter" width="32px" src="images/twitter.png" /> </a>
 <a href="https://www.instagram.com/ojha_sourav2001/" > <img  align="" alt="sourav-ojha | Instagram" width="32px" src="images/instagram.png" /> </a>
-<a href=" https://www.linkedin.com/in/sourav-coder/" > <img  align="" alt="sourav-ojha | LinkedIn" width="32px" src="images/linkedin.png" /> </a>
+<a href=" https://www.linkedin.com/in/sourav-ojha/" > <img  align="" alt="sourav-ojha | LinkedIn" width="32px" src="images/linkedin.png" /> </a>
 <a href="https://www.facebook.com/Ojha.sourAv.26/" > <img  align="" alt="sourav-ojha | Facebook" width="32px" src="images/facebook.png" /> </a>
 </p>
 <br />
