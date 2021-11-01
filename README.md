@@ -7,8 +7,9 @@
 
 
 - ✔  I'm Sourav Ojha
-- 👀 I'm currently Pursuing Bachelors of Computer Application (BCA)
-- 👨‍💻 I'm currently learning React and Redux 
+<!-- - 👀 I'm currently Pursuing Bachelors of Computer Application (BCA) -->
+- 👀 I'm a MERN Stack Developer
+- 👨‍💻 I'm currently learning Redux 
 
 ### Languages & Tools
 <p align="center">
