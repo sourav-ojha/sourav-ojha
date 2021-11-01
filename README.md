@@ -79,7 +79,7 @@
   
 <!--START_SECTION:waka-->
 ```text
-Week: 24 October, 2021 - 30 October, 2021
+Week: 25 October, 2021 - 31 October, 2021
 
 JSX          24 hrs 40 mins  ████████████████████░░░░░   80.09 % 
 JavaScript   2 hrs 12 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
