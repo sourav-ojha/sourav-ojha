@@ -80,11 +80,10 @@
   
 <!--START_SECTION:waka-->
 ```text
-Week: 01 December, 2021 - 07 December, 2021
+Week: 02 December, 2021 - 08 December, 2021
 
-JSX          8 hrs 7 mins    ███████████████░░░░░░░░░░   59.55 % 
-JavaScript   5 hrs 22 mins   ██████████░░░░░░░░░░░░░░░   39.43 % 
-JSON         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
+JSX          7 hrs 10 mins   ███████████████░░░░░░░░░░   60.14 % 
+JavaScript   4 hrs 44 mins   ██████████░░░░░░░░░░░░░░░   39.84 % 
 ```
 <!--END_SECTION:waka-->
 
