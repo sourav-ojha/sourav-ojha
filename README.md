@@ -9,7 +9,7 @@
 - ✔  I'm Sourav Ojha
 <!-- - 👀 I'm currently Pursuing Bachelors of Computer Application (BCA) -->
 - 👀 I'm a MERN Stack Developer
-- 👨‍💻 I'm currently learning Redux 
+- 👨‍💻 I'm currently learning Redux
 
 ### Languages & Tools
 <p align="center">
@@ -25,7 +25,7 @@
 
 
 ### Connect with me:
-<!-- [<img  align="left" alt="sourav-ojha | Twitter" width="22px" src="images/twitter.png" />][twitter]
+<!-- [<img  align="left" alt="sourav-ojha | Twitter" width="22px" src="images/twitter.png" />][twitter]j
 [<img align="left" alt="sourav-ojha | LinkedIn" width="22px" src="images/linkedin.png" />][linkedin]
 [<img align="left" alt="sourav-ojha | Instagram" width="22px" src="images/instagram.png" />][instagram]
 [<img align="left" alt="sourav-ojha | Facebook" width="22px" src="images/facebook.png" />][facebook]
