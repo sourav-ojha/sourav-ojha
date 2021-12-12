@@ -80,10 +80,7 @@
   
 <!--START_SECTION:waka-->
 ```text
-Week: 04 December, 2021 - 10 December, 2021
-
-JSX          1 hr 40 mins    ███████████████▒░░░░░░░░░   60.72 % 
-JavaScript   1 hr 4 mins     █████████▓░░░░░░░░░░░░░░░   39.23 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
