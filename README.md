@@ -1,6 +1,6 @@
 
 
-[![wakatime](https://wakatime.com/badge/user/062ae067-92b3-487a-8b59-49d23a55c735.svg)](https://wakatime.com/@062ae067-92b3-487a-8b59-49d23a55c735)
+<!-- [![wakatime](https://wakatime.com/badge/user/062ae067-92b3-487a-8b59-49d23a55c735.svg)](https://wakatime.com/@062ae067-92b3-487a-8b59-49d23a55c735) -->
 <p> <img src='https://komarev.com/ghpvc/?username=sourav-ojha&label=Views&color=blue&style=plastic%22' alt='sourav-Ojha' > </p>
 
 🤍!! Hi There !!🤍
