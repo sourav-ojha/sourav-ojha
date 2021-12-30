@@ -80,7 +80,12 @@
 </p>
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 23 December, 2021 - 29 December, 2021
+
+JavaScript   2 hrs 33 mins   ██████████████░░░░░░░░░░░   55.88 % 
+JSX          1 hr 42 mins    █████████▒░░░░░░░░░░░░░░░   37.35 % 
+Bash         9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
+CSS          8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
 ```
 <!--END_SECTION:waka-->
 
