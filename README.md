@@ -76,8 +76,9 @@
   <br />
   <br />
 
-<p> <img src="https://wakatime.com/share/@sourav_ojha/ffb56595-a404-4408-ab0b-602c423d7591.svg" width='450px' height='300px' />  <img src="https://wakatime.com/share/@sourav_ojha/e173b068-91b0-485f-aba4-2bcc47d39e68.svg" width:'300px' height='300px' />
-</p>
+<!--  <p> <img src="https://wakatime.com/share/@sourav_ojha/ffb56595-a404-4408-ab0b-602c423d7591.svg" width='450px' height='300px' />  
+ <img  src="https://wakatime.com/share/@sourav_ojha/e173b068-91b0-485f-aba4-2bcc47d39e68.svg" width:'300px' height='300px' />
+</p> -->
 <!--START_SECTION:waka-->
 ```text
 Week: 25 December, 2021 - 31 December, 2021
