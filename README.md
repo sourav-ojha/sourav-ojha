@@ -81,12 +81,12 @@
 </p> -->
 <!--START_SECTION:waka-->
 ```text
-Week: 04 January, 2022 - 10 January, 2022
+Week: 05 January, 2022 - 11 January, 2022
 
-JavaScript   20 hrs 10 mins  ████████████████████████▒   97.23 % 
-Bash         19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+JavaScript   20 hrs 30 mins  ████████████████████████▒   97.26 % 
+Bash         19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
 JSON         5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
-Other        4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+Other        4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 Text         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 ```
 <!--END_SECTION:waka-->
