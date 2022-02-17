@@ -81,15 +81,15 @@
 </p> -->
 <!--START_SECTION:waka-->
 ```text
-Week: 09 February, 2022 - 15 February, 2022
+Week: 10 February, 2022 - 16 February, 2022
 
-Total: 14 hrs 47 mins
+Total: 7 hrs 51 mins
 
-JavaScript   14 hrs 20 mins  ████████████████████████░   96.52 % 
-CSS          15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
-Text         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
-Other        4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
-Bash         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+JavaScript   7 hrs 39 mins   ████████████████████████░   96.64 % 
+Text         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
+Other        3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+Bash         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
+CSS          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
 ```
 <!--END_SECTION:waka-->
 
