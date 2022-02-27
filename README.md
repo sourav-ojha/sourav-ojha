@@ -81,7 +81,7 @@
 </p> -->
 <!--START_SECTION:waka-->
 ```text
-From: 17 February, 2022 - To: 24 February, 2022
+From: 18 February, 2022 - To: 25 February, 2022
 
 JavaScript   6 hrs 49 mins   ██████████████████████░░░   87.79 % 
 Bash         16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
