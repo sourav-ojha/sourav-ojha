@@ -80,15 +80,16 @@
  <img  src="https://wakatime.com/share/@sourav_ojha/e173b068-91b0-485f-aba4-2bcc47d39e68.svg" width:'300px' height='300px' />
 </p> -->
 <!--START_SECTION:waka-->
-```text
-From: 18 February, 2022 - To: 25 February, 2022
 
-JavaScript   6 hrs 49 mins   ██████████████████████░░░   87.79 % 
-Bash         16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
-Markdown     15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
-Text         10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
-Other        8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
+```text
+From: 20 February 2022 - To: 27 February 2022
+
+JavaScript   20 hrs 37 mins  ███████████████████████▓░   94.02 %
+Bash         29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 %
+Markdown     15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
+Other        14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
 ```
+
 <!--END_SECTION:waka-->
 
 
