@@ -7,7 +7,7 @@
 - ✔  I'm Sourav Ojha
 <!-- - 👀 I'm currently Pursuing Bachelors of Computer Application (BCA) -->
 - 👀 I'm a MERN Stack Developer
-- 👨‍💻 I'm currently learning Three js
+- 👨‍💻 I'm currently learning React Native
 
 ### Languages & Tools
 <p align="center">
