@@ -1,4 +1,4 @@
-
+[![Waka Readme](https://github.com/sourav-ojha/sourav-ojha/actions/workflows/main.yml/badge.svg)](https://github.com/sourav-ojha/sourav-ojha/actions/workflows/main.yml)
 [![wakatime](https://wakatime.com/badge/user/062ae067-92b3-487a-8b59-49d23a55c735.svg)](https://wakatime.com/@062ae067-92b3-487a-8b59-49d23a55c735) <span> <img src='https://komarev.com/ghpvc/?username=sourav-ojha&label=Views&color=blue&style=plastic%22' alt='sourav-Ojha' > </span>
 
 🤍!! Hi There !!🤍
