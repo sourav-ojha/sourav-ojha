@@ -6,7 +6,8 @@
   
   
 <a href="https://app.daily.dev/SouravOjha">
-  <img src="https://api.daily.dev/devcards/7f2dd2fe686b48a5a20151351ce975cc.png?r=m62" 
+  <img 
+       src="https://github.com/sourav-ojha/sourav-ojha/blob/main/devcard.svg"
        width="300" 
        alt="sourav ojha's Dev Card"
        align='right'
