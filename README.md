@@ -1,6 +1,4 @@
-
 [![wakatime](https://wakatime.com/badge/user/062ae067-92b3-487a-8b59-49d23a55c735.svg)](https://wakatime.com/@062ae067-92b3-487a-8b59-49d23a55c735) <span> <img src='https://komarev.com/ghpvc/?username=sourav-ojha&label=Views&color=blue&style=plastic%22' alt='sourav-Ojha' > </span>
-
 
 <div align="left">
   
@@ -21,30 +19,57 @@
 
 </div>
 
-### Languages & Tools
-<p align="">
-<code><img height="40" src="images/html.png"></code> &nbsp; &nbsp; 
-<code><img height="40" src="images/css.png"></code> &nbsp; &nbsp;
-<code><img height="40" src="images/js.png"></code> &nbsp; &nbsp;
-<code><img height="40" src="images/react.png"></code> &nbsp; &nbsp;
-<code><img height="40" src="images/firebase.png"></code> 
+### Connect with me:
+
+<p>
+<a target="_blank" href="https://twitter.com/subhamojha9" > <img  alt="sourav-ojha | Twitter" width="32px" src="images/twitter.png" /> </a> &nbsp; &nbsp;
+<a target="_blank" href="https://www.instagram.com/ojha_sourav2001/" > <img  alt="sourav-ojha | Instagram" width="32px" src="images/instagram.png" /> </a> &nbsp; &nbsp;
+<a target="_blank" href="https://www.linkedin.com/in/sourav-ojha/" > <img  alt="sourav-ojha | LinkedIn" width="32px" src="images/linkedin.png" /> </a>&nbsp; &nbsp;
+<a target="_blank" href="https://www.facebook.com/Ojha.sourAv.26/" > <img  alt="sourav-ojha | Facebook" width="32px" src="images/facebook.png" /> </a>
 </p>
 
+### Languages & Tools
 
-### Connect with me:
+<p align="">
+<!-- <code> -->
+<img height="40" src="images/html.png">
+<!-- </code> -->
+ &nbsp; &nbsp; 
+<!-- <code> -->
+<img height="40" src="images/css.png">
+<!-- </code> -->
+ &nbsp; &nbsp;
+<!-- <code> -->
+<img height="40" src="images/js.png">
+<!-- </code> -->
+ &nbsp; &nbsp;
+<!-- <code> -->
+<img height="40" src="images/react.png">
+<!-- </code> -->
+ &nbsp; &nbsp;
+<!-- <code> -->
+<img height="40" src="images/firebase.png">
+<!-- </code> -->
+ &nbsp; &nbsp;
+<!-- <code> -->
+<img height="40" src="images/nodejs.png">
+<!-- </code> -->
+ &nbsp; &nbsp;
+<!-- <code> -->
+<img height="40" src="images/mongodb.png">
+<!-- </code> -->
+ &nbsp; &nbsp;
+</p>
+
+<br />
+
 <!-- [<img  align="left" alt="sourav-ojha | Twitter" width="22px" src="images/twitter.png" />][twitter]j
 [<img align="left" alt="sourav-ojha | LinkedIn" width="22px" src="images/linkedin.png" />][linkedin]
 [<img align="left" alt="sourav-ojha | Instagram" width="22px" src="images/instagram.png" />][instagram]
 [<img align="left" alt="sourav-ojha | Facebook" width="22px" src="images/facebook.png" />][facebook]
 --!>
 
-<p align="">
-<a target="_blank" href="https://twitter.com/subhamojha9" > <img  align="" alt="sourav-ojha | Twitter" width="32px" src="images/twitter.png" /> </a> &nbsp; &nbsp;
-<a target="_blank" href="https://www.instagram.com/ojha_sourav2001/" > <img  align="" alt="sourav-ojha | Instagram" width="32px" src="images/instagram.png" /> </a> &nbsp; &nbsp;
-<a target="_blank" href="https://www.linkedin.com/in/sourav-ojha/" > <img  align="" alt="sourav-ojha | LinkedIn" width="32px" src="images/linkedin.png" /> </a>&nbsp; &nbsp;
-<a target="_blank" href="https://www.facebook.com/Ojha.sourAv.26/" > <img  align="" alt="sourav-ojha | Facebook" width="32px" src="images/facebook.png" /> </a>
-</p>
-<br />
+
 
 <!--
 [twitter]: https://twitter.com/subhamojha9
@@ -58,7 +83,7 @@
 <br />
 <p align="center">
 <a align="center" href="https://sites.google.com/view/souravojha/home" >
-<img src="https://img.shields.io/badge/PortfolioWebsite-sourav_ojha-2648ff?style=flat-square&logo=google-chrome" /> 
+<img src="https://img.shields.io/badge/PortfolioWebsite-sourav_ojha-2648ff?style=flat-square&logo=google-chrome" />
 </a>
   </p>
 <br />
@@ -85,7 +110,7 @@
   <br />
   <br />
 
-<!--  <p> <img src="https://wakatime.com/share/@sourav_ojha/ffb56595-a404-4408-ab0b-602c423d7591.svg" width='450px' height='300px' />  
+<!--  <p> <img src="https://wakatime.com/share/@sourav_ojha/ffb56595-a404-4408-ab0b-602c423d7591.svg" width='450px' height='300px' />
  <img  src="https://wakatime.com/share/@sourav_ojha/e173b068-91b0-485f-aba4-2bcc47d39e68.svg" width:'300px' height='300px' />
 </p> -->
 <!--START_SECTION:waka-->
@@ -99,7 +124,3 @@ Other        18 mins         ▒░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-
-
-
-
