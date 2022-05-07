@@ -116,7 +116,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 29 April 2022 - To: 06 May 2022
+
+JavaScript   2 hrs 56 mins   ████████████████████▓░░░░   82.70 %
+Text         22 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.39 %
+Bash         8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 %
+JSON         6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.93 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->
