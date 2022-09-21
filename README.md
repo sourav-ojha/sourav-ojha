@@ -117,14 +117,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 12 September 2022 - To: 19 September 2022
+From: 13 September 2022 - To: 20 September 2022
 
-JavaScript   20 hrs 43 mins  ████████████████████▒░░░░   81.64 %
-JSON         1 hr 24 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.54 %
-CSS          1 hr 9 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 %
-HTML         56 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 %
-Bash         23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
-TypeScript   16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
+JavaScript   17 hrs 34 mins  ████████████████████░░░░░   80.09 %
+JSON         1 hr 24 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.42 %
+CSS          1 hr 2 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.75 %
+HTML         51 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 %
+Other        21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
 ```
 
 <!--END_SECTION:waka-->
