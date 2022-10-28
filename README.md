@@ -117,14 +117,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 19 October 2022 - To: 26 October 2022
+From: 20 October 2022 - To: 27 October 2022
 
-JavaScript   5 hrs 6 mins    ███████▓░░░░░░░░░░░░░░░░░   31.12 %
-Dart         4 hrs 1 min     ██████░░░░░░░░░░░░░░░░░░░   24.46 %
-JSON         2 hrs 14 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.59 %
-Bash         1 hr 9 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   07.06 %
-HTML         1 hr 5 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.66 %
-Other        1 hr 2 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.37 %
+JavaScript   10 hrs 9 mins   ███████████▓░░░░░░░░░░░░░   46.72 %
+Dart         4 hrs 1 min     ████▓░░░░░░░░░░░░░░░░░░░░   18.48 %
+JSON         2 hrs 7 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.74 %
+HTML         1 hr 44 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 %
+Other        1 hr 2 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.79 %
 ```
 
 <!--END_SECTION:waka-->
