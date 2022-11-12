@@ -117,14 +117,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 03 November 2022 - To: 10 November 2022
+From: 04 November 2022 - To: 11 November 2022
 
-TypeScript                 10 hrs 14 mins  ████████████▒░░░░░░░░░░░░   48.76 %
-JavaScript                 9 hrs 13 mins   ███████████░░░░░░░░░░░░░░   43.95 %
-Nginx configuration file   27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 %
-JSON                       21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
-Text                       11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
-Bash                       10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
+TypeScript                 16 hrs 59 mins  ███████████████░░░░░░░░░░   59.99 %
+JavaScript                 9 hrs 5 mins    ████████░░░░░░░░░░░░░░░░░   32.07 %
+JSON                       49 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 %
+Nginx configuration file   27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
+Text                       12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
+Other                      10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
 ```
 
 <!--END_SECTION:waka-->
