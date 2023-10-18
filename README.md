@@ -117,13 +117,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 October 2023 - To: 16 October 2023
+From: 10 October 2023 - To: 17 October 2023
 
-TypeScript   6 hrs 17 mins   ███████████████▒░░░░░░░░░   61.36 %
-JavaScript   1 hr 39 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.20 %
-GraphQL      47 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 %
-Dart         25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 %
-JSON         23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 %
+TypeScript   8 hrs 54 mins   ████████████████▓░░░░░░░░   66.32 %
+JavaScript   2 hrs 7 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.79 %
+GraphQL      47 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.94 %
+Dart         31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 %
+JSON         29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 %
 ```
 
 <!--END_SECTION:waka-->
