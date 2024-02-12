@@ -117,13 +117,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 February 2024 - To: 10 February 2024
+From: 04 February 2024 - To: 11 February 2024
 
-TypeScript   30 hrs 52 mins  ██████████████████▓░░░░░░   74.24 %
-Markdown     3 hrs 25 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 %
-CSS          2 hrs 27 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.90 %
-Text         2 hrs 16 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.49 %
-Other        2 hrs 4 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.97 %
+TypeScript   31 hrs 40 mins  ███████████████████▓░░░░░   79.13 %
+Markdown     3 hrs 20 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 %
+Text         2 hrs 39 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.65 %
+CSS          1 hr 3 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 %
+Other        50 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 %
 ```
 
 <!--END_SECTION:waka-->
