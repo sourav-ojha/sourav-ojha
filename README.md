@@ -117,13 +117,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 August 2024 - To: 07 September 2024
+From: 01 September 2024 - To: 08 September 2024
 
-TypeScript    11 hrs 4 mins   ████████████████▒░░░░░░░░   65.22 %
-Markdown      4 hrs 14 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.98 %
-JSON          46 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 %
-CSS           30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.03 %
-Git Config    8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
+TypeScript    11 hrs 59 mins  ████████████████▓░░░░░░░░   66.77 %
+Markdown      4 hrs 22 mins   ██████░░░░░░░░░░░░░░░░░░░   24.37 %
+JSON          42 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 %
+CSS           30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.87 %
+Git Config    8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
 ```
 
 <!--END_SECTION:waka-->
