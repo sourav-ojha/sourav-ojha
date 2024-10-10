@@ -117,13 +117,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 October 2024 - To: 08 October 2024
+From: 02 October 2024 - To: 09 October 2024
 
-TypeScript   15 hrs 31 mins  ████████████████████▓░░░░   83.03 %
-Markdown     1 hr 28 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 %
-Bash         39 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 %
-Prisma       26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 %
-Batchfile    21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
+TypeScript   16 hrs 23 mins  ███████████████████▓░░░░░   78.36 %
+Markdown     2 hrs           ██▒░░░░░░░░░░░░░░░░░░░░░░   09.62 %
+Bash         40 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.19 %
+Prisma       35 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 %
+JavaScript   29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
 ```
 
 <!--END_SECTION:waka-->
