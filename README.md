@@ -117,13 +117,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 October 2025 - To: 01 November 2025
+From: 27 October 2025 - To: 03 November 2025
 
-TypeScript   3 hrs 25 mins   ██████████████████░░░░░░░   71.91 %
-Markdown     56 mins         █████░░░░░░░░░░░░░░░░░░░░   19.63 %
-JSON         20 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.08 %
-YAML         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
-CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+TypeScript   2 hrs 41 mins   ██████████░░░░░░░░░░░░░░░   40.38 %
+Terraform    52 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.17 %
+Bash         50 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.52 %
+Markdown     48 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.22 %
+JavaScript   26 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.71 %
 ```
 
 <!--END_SECTION:waka-->
