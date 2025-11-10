@@ -117,13 +117,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 November 2025 - To: 08 November 2025
+From: 02 November 2025 - To: 09 November 2025
 
-TypeScript   3 hrs 21 mins   ██████████░░░░░░░░░░░░░░░   39.58 %
-Markdown     1 hr 25 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.83 %
-Terraform    52 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.38 %
-Bash         50 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.86 %
-JavaScript   48 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.52 %
+TypeScript   2 hrs 28 mins   █████████████▓░░░░░░░░░░░   54.66 %
+Markdown     1 hr 11 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.51 %
+JavaScript   21 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 %
+JSON         12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 %
+Git Config   11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 %
 ```
 
 <!--END_SECTION:waka-->
