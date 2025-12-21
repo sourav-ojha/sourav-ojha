@@ -117,13 +117,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 December 2025 - To: 19 December 2025
+From: 13 December 2025 - To: 20 December 2025
 
-Other        3 hrs 55 mins   ██████████▓░░░░░░░░░░░░░░   42.47 %
-Markdown     2 hrs 55 mins   ████████░░░░░░░░░░░░░░░░░   31.55 %
-TypeScript   1 hr 9 mins     ███░░░░░░░░░░░░░░░░░░░░░░   12.60 %
-Bash         42 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 %
-SSH Config   17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.13 %
+Markdown     2 hrs 52 mins   ███████████████▒░░░░░░░░░   60.79 %
+TypeScript   1 hr 6 mins     ██████░░░░░░░░░░░░░░░░░░░   23.63 %
+Other        23 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 %
+Bash         16 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.93 %
+TOML         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
 ```
 
 <!--END_SECTION:waka-->
