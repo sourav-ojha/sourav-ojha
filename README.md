@@ -117,13 +117,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 January 2026 - To: 10 January 2026
+From: 04 January 2026 - To: 11 January 2026
 
-JSON         23 mins         ███████████████▒░░░░░░░░░   60.94 %
-JavaScript   6 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.10 %
-Git Config   4 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.72 %
-TypeScript   2 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 %
-CSS          0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 %
+JSON         23 mins         ████████████████▒░░░░░░░░   65.97 %
+JavaScript   6 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.30 %
+Git Config   4 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.69 %
+TypeScript   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 %
 ```
 
 <!--END_SECTION:waka-->
