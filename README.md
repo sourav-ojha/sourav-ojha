@@ -117,12 +117,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 January 2026 - To: 22 January 2026
+From: 16 January 2026 - To: 23 January 2026
 
-TypeScript   3 hrs 4 mins    ██████████████▓░░░░░░░░░░   58.09 %
-Markdown     1 hr 49 mins    ████████▓░░░░░░░░░░░░░░░░   34.53 %
-Other        21 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.82 %
-Diff         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+TypeScript   3 hrs 17 mins   ███████████████░░░░░░░░░░   59.60 %
+Markdown     1 hr 50 mins    ████████▒░░░░░░░░░░░░░░░░   33.34 %
+Other        21 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.53 %
+Diff         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
 JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
 ```
 
