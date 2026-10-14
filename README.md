@@ -117,13 +117,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 October 2026 - To: 12 October 2026
+From: 06 October 2026 - To: 13 October 2026
 
-TypeScript   12 hrs 31 mins        █████████░░░░░░░░░░░░░░░░   35.75 %
-Markdown     11 hrs 47 mins        ████████▒░░░░░░░░░░░░░░░░   33.66 %
-Other        8 hrs 22 mins         ██████░░░░░░░░░░░░░░░░░░░   23.91 %
-Diff         32 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
-SQL          28 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
+TypeScript   11 hrs 39 mins        █████████▓░░░░░░░░░░░░░░░   38.17 %
+Markdown     10 hrs 26 mins        ████████▓░░░░░░░░░░░░░░░░   34.21 %
+Other        6 hrs 21 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.82 %
+Diff         32 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
+Terraform    27 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
 ```
 
 <!--END_SECTION:waka-->
